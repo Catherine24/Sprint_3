@@ -1,0 +1,15 @@
+"//*[@id=\"root\"]/div/header/nav/a/p" #кнопка личный кабинет
+"//*[@id=\"root\"]/div/main/div/form/button" #кнопка Зарегистрироваться
+"//*[@id=\"root\"]/div/main/div/form/button" #кнопка войти в аккаунт
+"//*[@id=\"root\"]/div/main/div/div/p[2]/a" #кнопка восстановления пароля
+"//*[@id=\"root\"]/div/main/div/nav/ul/li[3]/button" #кнопка выхода
+"//*[@id=\"root\"]/div/header/nav/ul/li[1]/a/p" #конструктор
+"//*[@id=\"root\"]/div/header/nav/div/a" #логотип
+"//*[@id=\"root\"]/div/main/div/form/fieldset[1]/div/div/input" #инпут логина авторизации
+"//*[@id=\"root\"]/div/main/div/form/fieldset[2]/div/div/input" #инпут пароля авторизации
+"//*[@id=\"root\"]/div/main/div/form/fieldset[1]/div/div/input"  #инпут имени для регистрации
+"//*[@id=\"root\"]/div/main/div/form/fieldset[2]/div/div/input"  #инпут логина для регистрации
+"//*[@id=\"root\"]/div/main/div/form/fieldset[3]/div/div/input"  #инпут пароля для регистрации
+"//*[@id=\"root\"]/div/main/section[1]/div[1]/div[3]" #начинки
+"//*[@id=\"root\"]/div/main/section[1]/div[1]/div[2]" #соусы
+"//*[@id=\"root\"]/div/main/section[1]/div[1]/div[1]" #булки
